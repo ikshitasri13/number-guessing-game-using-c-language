@@ -16,4 +16,4 @@ a simple number guessing game made using c programming.
 - using loops and conditional statements
 
 ## author
-ikshita
+ikshita srivastav
